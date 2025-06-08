@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+dist
+pyftntlib.egg-info
+uv.lock
+.python-version
